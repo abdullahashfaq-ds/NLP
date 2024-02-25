@@ -1,1 +1,4 @@
 nltk
+spacy
+numpy
+pandas
